@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OnePieceComposeSubmission</string>
+    <string name="scroll_to_top">Scroll to Top</string>
+    <string name="search_pirate">Cari Kru Mugiwara</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="back">Back</string>
+    <string name="name_profile">Ferdy Fermadi</string>
+    <string name="email_profile">ferdy.fermadi99@gmail.com</string>
+</resources>
